@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admn/Documents/5-Personal/Study/Cpp/LondonUni/course_materials_may2018/week7/declarations-definitions-2018-06-12-BroVic-master/main.cpp
+iostream
+-
+utility.h
+C:/Users/Admn/Documents/5-Personal/Study/Cpp/LondonUni/course_materials_may2018/week7/declarations-definitions-2018-06-12-BroVic-master/utility.h
+
+C:/Users/Admn/Documents/5-Personal/Study/Cpp/LondonUni/course_materials_may2018/week7/declarations-definitions-2018-06-12-BroVic-master/utility.cpp
+iostream
+-
+string
+-
+utility.h
+C:/Users/Admn/Documents/5-Personal/Study/Cpp/LondonUni/course_materials_may2018/week7/declarations-definitions-2018-06-12-BroVic-master/utility.h
+
+C:/Users/Admn/Documents/5-Personal/Study/Cpp/LondonUni/course_materials_may2018/week7/declarations-definitions-2018-06-12-BroVic-master/utility.h
+string
+-
+
